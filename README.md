@@ -1,22 +1,22 @@
-# Template2D-Unity202015f1
+# wh-speedprj-blumen-pkikl
 
 ### Project description: 
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10, Unity 2020f15.1, Visual Studio 2019
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL
 
 ### Visuals: 
 Screenshots (concept and experience), Video
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+
 
 ### Project state: 
 incl. progress in percent
@@ -24,5 +24,6 @@ incl. progress in percent
 ### Limitations: 
 
 ### Lessons Learned: 
+Arrays
 
-Copyright by you :)
+Copyright by Peter Kikl
